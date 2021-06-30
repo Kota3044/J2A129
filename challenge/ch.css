@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/*-----------------
+全体の初期設定
+-----------------*/
+* {
+ box-sizing: border-box;
+ font-family: メイリオ;
+ margin: 0; }
+/*-----------------
+個別設定
+-----------------*/
+body {
+ background: #f8d8bf;
+ margin: 0;
+ padding: 0; }
+article {
+ width: 800px;
+ max-width: 90%;
+ margin: 20px auto;
+ padding: 20px;
+ background: #fff; }
+header {
+ background: #f83;
+ color: #fff;
+ padding: 10px; }
+section {
+ padding: 20px;
+ border: 1px solid #ccc; }
